@@ -10,7 +10,7 @@ This repository is optimized for production, utilizing **Clean Architecture** pa
 
 | Home Screen Feed | Premium Custom Video Player |
 | :---: | :---: |
-| ![Home Screen Mockup](assets/readme_images/home.jpg) | ![Player Screen Mockup](assets/readme_images/player_page_mockup.jpg) |
+| ![Home Screen Mockup](assets/readme_images/home.png) | ![Player Screen Mockup](assets/readme_images/player_page_mockup.jpg) |
 
 ---
 
